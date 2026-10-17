@@ -63,6 +63,8 @@ These notebooks offer two entry points into that journey.
 
 Prepared for **DevFest Chennai 2026**, alongside the talk *Machine Learning the Physical World*.
 
+Thanks to GDG Chennai and the DevFest 2026 organizers.
+
 If you experiment with these notebooks, build on them, or come up with something interesting, feel free to fork the repository and share your work. We’d appreciate an acknowledgment of the original work and a link to the [Teraqata Group](https://www.teraqata.com) in any derivative projects.
 
 ---
